@@ -37,4 +37,4 @@ Zbiór jest w formie pliku JSON zawierającego tablicę obiektów zawierających
 ```
 
 ## Licencja
-Repozytorium jest objęte licencją [Creative Commons 3.0](https://creativecommons.org/licenses/by/3.0/ "Creative Commons").
+Repozytorium jest objęte licencją [Creative Commons](https://creativecommons.org/licenses/by/3.0/ "Creative Commons").
