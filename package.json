@@ -2,7 +2,7 @@
   "name": "polskie-miejscowosci",
   "version": "1.0.0",
   "description": "Miejscowosci polski w JSON",
-  "main": "data.js",
+  "main": "data.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
