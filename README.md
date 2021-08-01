@@ -12,7 +12,7 @@ Miejscowości pochodzą z PRNG (Państwowego Rejestru Nazw Geograficznych), zbi�
 ``import data from 'polskie-miejscowosci'``
 
 ## Opis
-Zbiór jest w formie pliku JSON zawierającego tablicę obiektów zawierających następujące informacje:
+Zbiór jest w formie pliku JSON zawierającego tablicę obiektów z następującymi informacjami:
 - Nazwa miejscowości,
 - Rodzaj miejscowości (wieś/miasto),
 - Położenie na mapie - długość geograficzna (forma dziesiętna),
