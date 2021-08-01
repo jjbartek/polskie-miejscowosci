@@ -22,16 +22,17 @@ Zbiór jest w formie pliku JSON zawierającego tablicę obiektów z następując
 - Gmina
 
 ```json
- [{
-    	"Id":"16121",
-    	"Name":"Kraków",
-    	"Type":"city",
-    	"Province":"małopolskie",
-    	"District":"Kraków",
-    	"Commune":"Kraków-gmina miejska",
-    	"Latitude":50.0617,
+[
+	{
+		"Id":"16121",
+		"Name":"Kraków",
+		"Type":"city",
+		"Province":"małopolskie",
+		"District":"Kraków",
+		"Commune":"Kraków-gmina miejska",
+		"Latitude":50.0617,
 		"Longitude":19.9375
-    },
+  	},
 	...
 ]
 ```
