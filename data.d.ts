@@ -9,7 +9,7 @@ declare module 'polskie-miejscowosci' {
         Name: string
         Province: string
         Type: "village" | "city"
-      }
+      }?
     ]
     export default type
   }
