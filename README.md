@@ -12,7 +12,7 @@ Miejscowości pochodzą z PRNG (Państwowego Rejestru Nazw Geograficznych), zbi�
 ``import data from 'polskie-miejscowosci'``
 
 ## Opis
-Zbiór jest w formie pliku JSON zawierającego tablicę obiektów zawierających następujące informacje:
+Zbiór jest w formie pliku JSON zawierającego tablicę obiektów z następującymi informacjami:
 - Nazwa miejscowości,
 - Rodzaj miejscowości (wieś/miasto),
 - Położenie na mapie - długość geograficzna (forma dziesiętna),
@@ -22,16 +22,17 @@ Zbiór jest w formie pliku JSON zawierającego tablicę obiektów zawierających
 - Gmina
 
 ```json
- [{
-    	"Id":"16121",
-    	"Name":"Kraków",
-    	"Type":"city",
-    	"Province":"małopolskie",
-    	"District":"Kraków",
-    	"Commune":"Kraków-gmina miejska",
-    	"Latitude":50.0617,
+[
+	{
+		"Id":"16121",
+		"Name":"Kraków",
+		"Type":"city",
+		"Province":"małopolskie",
+		"District":"Kraków",
+		"Commune":"Kraków-gmina miejska",
+		"Latitude":50.0617,
 		"Longitude":19.9375
-    },
+  	},
 	...
 ]
 ```
