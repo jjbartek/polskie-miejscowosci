@@ -1,6 +1,6 @@
 {
   "name": "polskie-miejscowosci",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Zbiór zawierający miejscowości Polski w formacie JSON",
   "main": "data.json",
   "types": "data.d.ts",
